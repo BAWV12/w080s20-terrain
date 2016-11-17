@@ -1,0 +1,9 @@
+OBJECT_BASE 1790700.btg
+OBJECT SPRF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.477788 -14.260600 4585.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.455547 -14.272734 4541.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.466106 -14.265599 4554.8 0.00
+OBJECT SPRF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.477788 -14.260600 4585.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.455547 -14.272734 4541.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.466106 -14.265599 4554.8 0.00
